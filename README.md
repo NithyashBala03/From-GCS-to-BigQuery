@@ -76,6 +76,18 @@ This solution ensures that the Medical Research Team can securely manage and ana
 
 ![image](https://github.com/user-attachments/assets/79a6ba39-6b1d-45d3-a6c1-985f71bd62db)
 
+**Cloud Computing**: Used Google Cloud Storage (GCS) and BigQuery for secure, scalable data storage and processing.
+
+**Data Engineering**: Developed an ELT pipeline with Apache Airflow for automating data extraction, transformation, and loading.
+
+**Security**: Implemented row-level security and role-based access control (RBAC) using Google Cloud IAM to restrict access to country-specific data.
+
+**Data Visualization**: Created interactive Looker dashboards and reports for Health Ministers to analyze disease data.
+
+**SQL & Data Transformation**: Used SQL in BigQuery to query and transform data efficiently.
+
+**Automation**: Automated data workflows and scheduling using Apache Airflow DAGs for streamlined processing.
+
 **Conclusion**
 
 This project provides an end-to-end solution for building an efficient ELT data pipeline on GCP, with automation and orchestration via Apache Airflow
