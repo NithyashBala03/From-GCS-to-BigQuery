@@ -11,6 +11,9 @@ Security and confidentiality: The data must be restricted and not shared with un
 
 Data complexity: The large CSV file is inefficient for analysis due to its size, and extracting meaningful insights from such a dataset is complex and time-consuming.
 
+![image](https://github.com/user-attachments/assets/1105fae1-8641-41ba-8b3a-168e0ddfa333)
+
+
 **Challenges**
 
 Data Confidentiality: Sharing a single, large file with all the stakeholders is not feasible because of the sensitive nature of the data.
