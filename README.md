@@ -19,6 +19,8 @@ Data Volume: The file contains over a million records, making analysis slow and 
 
 Lack of Segregation: Currently, there is no way to efficiently restrict access to each country’s specific data, making it harder to maintain privacy while enabling analysis.
 
+![image](https://github.com/user-attachments/assets/79a6ba39-6b1d-45d3-a6c1-985f71bd62db)
+
 **Objective**
 
 The objective of this project is to develop a robust data analytics solution to securely manage and analyze the disease data. The solution must ensure:
@@ -74,7 +76,7 @@ Analytics on Treatment/Vaccination Gaps: Focused analysis on diseases with no av
 
 This solution ensures that the Medical Research Team can securely manage and analyze global health data, providing each country’s Health Minister with the insights they need to make informed decisions regarding public health and disease control efforts.
 
-![image](https://github.com/user-attachments/assets/79a6ba39-6b1d-45d3-a6c1-985f71bd62db)
+**Skills******
 
 **Cloud Computing**: Used Google Cloud Storage (GCS) and BigQuery for secure, scalable data storage and processing.
 
