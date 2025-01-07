@@ -76,7 +76,10 @@ Analytics on Treatment/Vaccination Gaps: Focused analysis on diseases with no av
 
 This solution ensures that the Medical Research Team can securely manage and analyze global health data, providing each country’s Health Minister with the insights they need to make informed decisions regarding public health and disease control efforts.
 
-**Skills******
+![image](https://github.com/user-attachments/assets/a096683e-ba9c-433a-bd01-06b55fc58f9e)
+
+
+**Skills**
 
 **Cloud Computing**: Used Google Cloud Storage (GCS) and BigQuery for secure, scalable data storage and processing.
 
